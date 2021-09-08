@@ -23,4 +23,6 @@ deallocate and clean the directory just run ./uninstall.sh .
 
 For the sake of completeness, it should be noted 
 that the code is developed starting from examples 
-seen during the Advanced Operating Systems course.
+seen during the Advanced Operating Systems course and it has 
+been tested on a Virtual Machine with Ubuntu 20.04.3 LTS and
+Kernel 5.11.0-27-generic
