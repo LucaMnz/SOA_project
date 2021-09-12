@@ -8,7 +8,7 @@ open a certain service to which a specific tag is
 associated and on this it will be possible to 
 receive and / or send messages. There are also 
 control operations such as the awakening of threads 
-and also the removal of a service. 
+and also the removal of a service.  
 
 To carry out tests on the functioning of the system 
 a special 'demo' module is provided which carries 
