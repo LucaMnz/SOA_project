@@ -1,4 +1,4 @@
-# SOA_project
+# SOA_project (Bugs Fixed)
 
 This project aims to propose a subsystem for managing
 the exchange of messages between threads through 
